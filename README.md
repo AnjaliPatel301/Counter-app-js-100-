@@ -20,7 +20,7 @@
 
 
 # ### 🔗 Live Demo
-[Click here to try the Counter App](https://github.com/AnjaliPatel301/Counter-app-js-100-.git)
+[Click here to try the Counter App][(http://127.0.0.1:5500/bird2_files/js/index.html))
 
 ### 🛠️ Tech Stack
 - HTML

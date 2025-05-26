@@ -26,3 +26,10 @@
 - HTML
 - CSS
 - JavaScript
+
+
+#output
+
+![Screenshot_26-5-2025_65034_127 0 0 1](https://github.com/user-attachments/assets/8d31f656-63fd-4cce-96cc-6bfb0e30c661)
+
+

@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 - HTML
 - CSS
-- JavaScript
+- JavaScript🫠
 
 
 #output
